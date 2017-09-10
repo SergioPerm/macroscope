@@ -1,0 +1,18 @@
+F:\DEV\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\bin\Debug\ImageEdit.exe.config
+F:\DEV\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\bin\Debug\ImageEdit.exe
+F:\DEV\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\bin\Debug\ImageEdit.pdb
+F:\DEV\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.csprojResolveAssemblyReference.cache
+F:\DEV\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.Form1.resources
+F:\DEV\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.Properties.Resources.resources
+F:\DEV\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.csproj.GenerateResource.Cache
+F:\DEV\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.exe
+F:\DEV\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.pdb
+D:\kluv_folder\DEV\Отборочное задание\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\bin\Debug\ImageEdit.exe.config
+D:\kluv_folder\DEV\Отборочное задание\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\bin\Debug\ImageEdit.exe
+D:\kluv_folder\DEV\Отборочное задание\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\bin\Debug\ImageEdit.pdb
+D:\kluv_folder\DEV\Отборочное задание\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.csprojResolveAssemblyReference.cache
+D:\kluv_folder\DEV\Отборочное задание\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.Form1.resources
+D:\kluv_folder\DEV\Отборочное задание\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.Properties.Resources.resources
+D:\kluv_folder\DEV\Отборочное задание\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.csproj.GenerateResource.Cache
+D:\kluv_folder\DEV\Отборочное задание\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.exe
+D:\kluv_folder\DEV\Отборочное задание\Отборочное задание\cv_school_test\project\ImageEdit\ImageEdit\obj\Debug\ImageEdit.pdb
